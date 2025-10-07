@@ -25,4 +25,4 @@ Cleaned and transformed **11,000+ ATM transaction records** using Python (Pandas
 - Found higher withdrawal activity on weekends vs working days
 - Demonstrated complete data pipeline: from CSV → cleaning → database → analysis → visualization
 
-- 
+
