@@ -19,7 +19,8 @@ Cleaned and transformed **11,000+ ATM transaction records** using Python (Pandas
 - MySQL / Workbench
 - Jupyter Notebook
 - Git & GitHub
-
+## Dataset used 
+  - <a href "https://github.com/Tamang101/bank_project/blob/main/cleaned_transactions.csv">Dataset</a>
   ##  Key Insights
 - Identified the busiest ATMs and withdrawal trends over the months
 - Found higher withdrawal activity on weekends vs working days
