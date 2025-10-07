@@ -17,7 +17,7 @@ Cleaned and transformed **11,000+ ATM transaction records** using Python (Pandas
    <a href= "https://github.com/Tamang101/bank_project/blob/main/ATM_Trasaction_Data.sql)">SQL_Script</a>
 
 ## Visualisation
-  <a href= "(https://github.com/Tamang101/bank_project/blob/main/Visualisation%20(1).ipynb)">Visualisation</a>
+  <a href= "https://github.com/Tamang101/bank_project/blob/main/Visualisation%20(1).ipynb">Visualisation</a>
 
   ##  Tech Stack
 - Python (Pandas, Matplotlib, Mysql)
