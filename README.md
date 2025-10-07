@@ -12,7 +12,10 @@ Cleaned and transformed **11,000+ ATM transaction records** using Python (Pandas
   - Top 5 ATMs by total withdrawals
   - Average withdrawal amount per transaction
   - Weekend vs weekday withdrawal comparison
+  - <a href= "[https://github.com/Tamang101/bank_project/blob/main/cleaned_transactions.csv](https://github.com/Tamang101/bank_project/blob/main/ATM_Trasaction_Data.sql)">SQL_Script</a>
+
 - Visualized key insights with Python (Matplotlib & Pandas)
+- <a href= "[https://github.com/Tamang101/bank_project/blob/main/cleaned_transactions.csv](https://github.com/Tamang101/bank_project/blob/main/Visualisation%20(1).ipynb)">Visualisation</a>
 
   ##  Tech Stack
 - Python (Pandas, Matplotlib, Mysql)
