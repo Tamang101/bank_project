@@ -1,6 +1,6 @@
 # ATM Transactions Analytics
 ## A small data engineering & analytics project to demonstrate
-data cleaning, SQL queries, and visualization — inspired by
+data cleaning, MySQL queries, and visualization — inspired by
 a real-world bank transaction dataset.
 
 ## Project Overview
@@ -15,7 +15,7 @@ Cleaned and transformed **11,000+ ATM transaction records** using Python (Pandas
 - Visualized key insights with Python (Matplotlib & Pandas)
 
   ##  Tech Stack
-- Python (Pandas, Matplotlib, SQLAlchemy)
+- Python (Pandas, Matplotlib, Mysql)
 - MySQL / Workbench
 - Jupyter Notebook
 - Git & GitHub
